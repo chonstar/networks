@@ -1,2 +1,2 @@
-# networks
-DNS and HTTP server software coded in Java
+# DNS Server
+DNS server software coded in Java
